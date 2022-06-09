@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div class='bg-black w-screen h-screen text-red-900'>
       <title>Apex Stats | Home</title>
-      <div>Home</div>
+      <div>Home ofo Valk</div>
     </div>
   )
 }
