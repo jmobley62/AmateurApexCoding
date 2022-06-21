@@ -13,6 +13,7 @@ export default function Home() {
         <input class='mt-2'></input><br></br>
         <label class='text-2xl font-bold px-7'>Last name:  </label>
         <input class='mt-2'></input>
+        <button class='bg-red-900 rounded-md text-white text-lg mx-14 mt-4 p-1 '>Submit</button>
       </form>
 
       <div>Home</div>
